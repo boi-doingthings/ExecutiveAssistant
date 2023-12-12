@@ -1,0 +1,49 @@
+Yash Gupta
++91-80779-50610 | yash@hsay.in | Portfolio Website
+An experienced Data Scientist with 4.5 years of hands-on expertise in creating impactful end to end AI and data-based solutions.
+Work Experience: .
+Data Scientist @ Shiprocket Gurugram|Dec’21-Present Risk Intelligence & Fraud Detection [GBMs/Regression/Tabular]:
+- Developed an end2end ML pipeline with 76% precision to predict RTO risks, saving ₹35+ lakh/month for 250+ D2C brands using python and key libraries like pandas, pola-rs, xgboost and scikit-learn on AWS ML tech-stack.
+- Reduced fraud cases by 18% through an innovative blend of NLP with tabular data, leveraged Word2Vec, NER & DBSCAN clustering to detect the behavioural patterns of fraudulent sellers.
+Address Standardization [NLP]:
+- Created an unsupervised learning framework enhancing 60+ lakh delivery addresses through scoring and validation.
+- Developed an address deduplication and syntax correction pipeline, whole suite led to +20% increased deliveries. Demand Forecasting & Hyperlocal Fulfillment [Time Series/Geospatial]:
+- Undertook SKU and product category level forecasts for SR Fulfilment using ARIMA, pyCaret & fb Prophet libraries.
+- Probed geo-spatial data for hyperlocal eCommerce identifying 500+ dark stores using Kepler & geo-pandas. Systems Engineering & Cross Collaborations:
+- Established a robust Python framework to underpin all data science workflows, incorporating industry best practices for logging, dashboarding, data governance, and model artifact maintenance, ensuring efficiency and scalability.
+Data Science Analyst @ Whitehat Jr. Remote|July-Nov’21 Customer Retention & Clustering
+- Developed gradient based propensity models on customer renewal behaviour leading to +18% increased retention.
+Consultant @ EXL Analytics @ Fortune 500 Insurer Gurugram|Jun’19-Jun’21 MLOps & Marketing Analytics
+- Led development of 10 ratings and segmentation models, serving as base for cross vertical business projects.
+- Implemented OpenAI LLMs gpt-3.5-turbo, embeddings & speech-to-text model whisper, to develop GenAI PoCs.
+- Implemented SQL-based segmentation for improved student-teacher mappings, resulting in a +8.7% increase in
+conversions. .
+- Created & maintained 12 ML models to identify high-potential prospects for KPIs on a $3MM marketing campaign.
+- Implemented 1-window customer selection and offer allocation framework, boosting performance by +27%.
+- Migrated pre-existing SAS based ML workflows to python saving over $300K in license costs.
+Skills & Certifications:
+- Core Domain Skills: Data Science, Machine Learning, Deep Learning, NLP, Predictive Analytics & Modelling
+- Data Skills: Data Modelling, ETL, Snowflake, NoSQL, DataBricks, BigQuery, Redshift, S3
+- Languages: Python, Rust, SQL(Postgres), bash, R, shell scripting
+- ML Frameworks: PyTorch, huggingface, flask, LangChain, docker, MLFlow
+.
+- Libraries & Packages: pandas, polars, numpy, gensim, nltk, sqlalchemy, pymongo, OpenAI, spacy, xgboost, flashtext
+- Cloud Skills: AWS → Sagemaker, EC2, Lambda, ELK, ECR | GCP → VertexAI | Azure: AI Studio, OpenAI Service
+- Certifications:
+• Machine Learning Engineering for Production (MLOps) Specialization
+• Training and Deploying Large Language Models (LLMs) in Production
+• Building Generative AI Applications
+Education:         .
+Course/Exam
+B.Tech - Electrical Engineering Research Internship
+University/Board
+National Institute of Technology, Kurukshetra
+Indian Institute of Science, Bengaluru
+CGPA/%
+8.45/10 -
+Year
+2019 2017
+Awards & Recognitions: .
+- 2x Star Performer of the Quarter (Shiprocket) for spearheading challenging projects in AI based products
+- Employee of the Quarter (EXL) for excellence in crucial projects with tight deadlines and multiple stakeholders
+- Winner of multiple national level quizzing and technical events (NIT KKR | IIT DELHI)
