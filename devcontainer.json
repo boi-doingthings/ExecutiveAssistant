@@ -1,0 +1,9 @@
+{
+    "name": "My Python Project",
+    "image": "python:3.11.7",
+    "settings": { 
+      "terminal.integrated.shell.linux": "/bin/bash"
+    },
+    "extensions": ["ms-python.python"]
+  }
+  
